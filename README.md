@@ -10,6 +10,6 @@
 
 [My Blog](https://acquilla.blog/)
 
-## Reach Me:
+## Reach me on:
 
 [Twitter](https://twitter.com/acquilla_c)
