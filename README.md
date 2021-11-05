@@ -12,4 +12,4 @@
 
 ## Reach Me:
 
-[My Blog](https://twitter.com/acquilla_c)
+[Twitter](https://twitter.com/acquilla_c)
