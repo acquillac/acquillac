@@ -6,7 +6,7 @@
 - 📝 Writing a blog about my journey
 - 🤝 looking to collaborate with other web developers
 
-## Check out my Block:
+## Check out my Blog:
 
 [My Blog](https://acquilla.blog/)
 
